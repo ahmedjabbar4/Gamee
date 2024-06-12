@@ -1,0 +1,11 @@
+*.json
+*.py
+!bot.py
+env
+sessions
+*.session
+*.txt
+!data.txt
+*.log
+!uuid.json
+!requirements.txt

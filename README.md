@@ -33,7 +33,7 @@ Ask u friend for invitation code !
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/KayNguyen97/Gamee.git
+   git clone https://github.com/ahmedjabbar4/Gamee.git
    ```
 3. Go to Gamee
    ```
